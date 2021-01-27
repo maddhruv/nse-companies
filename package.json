@@ -1,6 +1,6 @@
 {
   "name": "nse-companies",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "All NSE Traded Companies",
   "main": "companies.json",
   "repository": {
