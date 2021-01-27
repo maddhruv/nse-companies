@@ -1,0 +1,21 @@
+{
+  "name": "nse-companies",
+  "version": "0.0.1",
+  "description": "All NSE Traded Companies",
+  "main": "companies.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddhruv/nse-companies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddhruv/nse-companies/issues"
+  },
+  "homepage": "https://github.com/maddhruv/nse-companies#readme",
+  "devDependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "lodash": "^4.17.20"
+  }
+}
