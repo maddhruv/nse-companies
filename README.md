@@ -1,6 +1,6 @@
 # nse-companies
 
-All NSE Traded Companies
+All NSE Traded/Listed Companies
 
 ## Install
 
@@ -11,6 +11,6 @@ All NSE Traded Companies
 ```js
 import companies from "nse-companies";
 
-// return with a key value pair of all companies
-// in SYMBOL:NAME format
+// {"symbols": [], "length": number}
+// where symbols is the list of all symbols
 ```
